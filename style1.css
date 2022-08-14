@@ -1,0 +1,27 @@
+.yellow-bg {
+    background: yellow;
+    text-decoration: underline;
+}
+
+span.gray-bg , input.gray-bg {
+    background: gray;
+}
+
+span#year {
+    color: red ;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+table, th {
+    border: 1px solid black;
+}
+
+tr.momo {
+    /* border: 1px solid black !important; */
+    text-align: left;
+}
+
+tr:hover {
+    background: aqua;
+}
